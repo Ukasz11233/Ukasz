@@ -6,8 +6,8 @@ Languages which I know a little or little more:
 <
   <img src="./C_icon.png" width="22">
   <img src="./pyhon_icon.jpeg" width="22">
-  <img src="./C++_icon.png" widht="22">
-  <img src="./shell_logo.jpeg" widht="22">
+  <img src="./C++_icon.png" width="22">
+  <img src="./shell_logo.jpeg" width="22">
 </p>
 
 <br />
