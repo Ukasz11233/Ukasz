@@ -1,4 +1,4 @@
-#HI I'm Łukasz Chmielewski <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="30">
+# HI I'm Łukasz Chmielewski <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="30">
 
 ## Few words about me
 I'm a student of AGH at the faculty of IT.
